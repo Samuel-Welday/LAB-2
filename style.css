@@ -18,7 +18,9 @@ p,li,h4,.a1{
 }
 .myMood{
     display: grid;
-    grid-template-columns: .1fr .1fr .1fr .1fr;
+    grid-template-columns: .1fr 1fr .1fr 1fr;
+    width: 600px;
+    column-gap: 6px;
     
    
 }
