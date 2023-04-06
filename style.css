@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(105, 92, 76);
+}
+h1{
+    color: rgb(103, 184, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: rgb(103, 184, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p,li,h4,.a1{
+    color: white;
+}
+.tag{
+    color: rgb(164, 12, 12);
+    
+}
+.myMood{
+    display: grid;
+    grid-template-columns: .1fr .1fr .1fr .1fr;
+    
+   
+}
+.happy{
+    width: 300px;
+    object-fit: cover;
+}
+.a1{
+    align-self: last baseline;
+}
+.dtYellow{
+    color: yellow;
+}
