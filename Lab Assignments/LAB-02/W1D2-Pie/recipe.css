@@ -1,0 +1,53 @@
+.bodyRecipe {
+    color: rgb(240, 240, 240);
+    text-decoration: rgb(64, 64, 64);
+    background-image: url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+  font-size: 11pt;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-attachment: fixed;
+}
+
+h2 {
+  color: rgb(214, 107, 18);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+h3{
+    color: rgb(214, 107, 18);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    display: flex;
+    background-color: rgb(229, 223, 132);
+}
+.list{
+    list-style-image: url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
+}
+
+li,
+p {
+  color: black;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(229, 223, 132);
+    display: flex;
+}
+.yellow{
+    background-color: yellow;
+}
+.footer{
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    top: 1460px;
+    left: 1270px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+
+#recipe-info {
+  list-style-type: none !important;
+}
