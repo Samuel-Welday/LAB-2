@@ -1,0 +1,35 @@
+
+    
+      .field {
+        margin-top: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
+      }
+      input::placeholder {
+        font-size: 20px;
+      }
+      .form-control {
+        padding-top: 15px;
+        padding-bottom: 15px;
+
+        border-color: rgb(246, 240, 240);
+        box-shadow: inset 1px 0.4px 2.5px;
+      }
+      .form-label,
+      .form-check-label {
+        font-size: 20px;
+      }
+      
+      .form-check-label {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+      .btn-btn-primary {
+        background-color: #0b67f2;
+        width: 125px;
+        height: 55px;
+        border-radius: 8px;
+        color: white;
+        font-size: 20px;
+        padding-right: 10px;
+      }
+    
