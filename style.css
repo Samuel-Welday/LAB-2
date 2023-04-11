@@ -5,7 +5,7 @@ div{
     padding-left: 20px;
 }
 .imgMe{
-    background-image:url(LAB-1/image/pexels-francesco-ungaro-396547.jpg);
+    background-image:url("Lab Assignments/LAB-1/image/pexels-francesco-ungaro-396547.jpg");
     background-size: 295px;  
 }
 ul{
